@@ -1,6 +1,10 @@
 {
   "FLogNetwork": "7",
   "FFlagHandleAltEnterFullscreenManually": "False",
+  "FIntDebugForceMSAASamples": "4",
+  "DFIntTaskSchedulerTargetFps": "9999",
+  "DFFlagTextureQualityOverrideEnabled": "True",
+  "DFIntTextureQualityOverride": "3",
   "FIntFullscreenTitleBarTriggerDelayMillis": "3600000",
   "FFlagRenderThreaded": "True",
   "FFlagReduceEventDispatchOverhead": "True",
@@ -107,6 +111,7 @@
   "FFlagRenderSteppedSignalCleanup": "True",
   "FFlagReduceBackgroundThreadLatency": "True",
   "FFlagOptimizeNetworkPacketHandling": "True",
+  "DFIntPhysicsLodDistance": "100",
   "FFlagOptimizeGarbageCollectorPause": "True",
   "FFlagOptimizePathfinding": "True",
   "FFlagOptimizeRenderThread": "True",
@@ -141,6 +146,23 @@
   "FFlagEnableAdaptiveResolution": "True",
   "FFlagImproveAssetBundleCaching": "True",
   "FFlagAsyncResourceLoading": "True",
-  "FIntTerrainArraySliceSize": "4"
+  "DFFlagGlobalShadowsEnabled": "True",
+  "FFlagDebugRenderingForceTerrainSmoothing": "True",
+  "FIntTerrainArraySliceSize": "4",
+  "FFlagDebugRenderingUseHighQualityCulling": "True",
+  "FFlagDebugEnableNormalMap": "True",
+  "FFlagDebugRenderingSetDeterministic": "True",
+  "FFlagReduceMemoryUsage": "True",
+  "FFlagEnableLowLatencyInput": "True",
+  "FFlagParallelDataStreaming": "True",
+  "FFlagOptimizeAssetPreloading": "True",
+  "FFlagEnableAggressiveCulling": "True",
+  "FFlagAsyncTerrainLoading": "True",
+  "FFlagReduceGuiOverhead": "True",
+  "FFlagEnableFasterPhysicsStepping": "True",
+  "FFlagOptimizeDecalRendering": "True",
+  "FFlagImproveParticleCulling": "True",
+  "FFlagEnableThreadPooling": "True"
 }
+
 -- fixed performance issues
