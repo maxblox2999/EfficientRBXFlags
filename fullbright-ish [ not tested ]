@@ -1,0 +1,13 @@
+{
+  "FFlagFastGPULightCulling3": "True",
+  "FIntRenderShadowIntensity": "0",
+  "DFIntCullFactorPixelThresholdShadowMapHighQuality": "2147483647",
+  "DFIntCullFactorPixelThresholdShadowMapLowQuality": "2147483647",
+  "FFlagNewLightAttenuation": "True",
+  "FIntRenderShadowMapBias": "-1",
+  "DFFlagDebugPauseVoxelizer": "True",
+  "DFIntDebugFRMQualityLevelOverride": "1",
+  "DFFlagDebugRenderForceTechnologyVoxel": "True",
+  "FFlagRenderFixFog": "True",
+  "FFlagDisablePostFX": "True"
+}
