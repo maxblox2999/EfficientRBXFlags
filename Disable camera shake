@@ -1,0 +1,5 @@
+{
+  "FFlagDisableCameraShakes": "True",
+  "FFlagDisableFirstPersonCameraEffects": "True",
+  "FFlagPlayerCameraAnimationFix": "False"
+}
