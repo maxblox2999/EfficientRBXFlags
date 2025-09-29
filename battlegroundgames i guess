@@ -1,0 +1,23 @@
+{
+  "FFlagDisableCameraShakes": "True",
+  "FFlagDisableFirstPersonCameraEffects": "True",
+  "FFlagPlayerCameraAnimationFix": "False",
+  "FFlagDisablePostFX": "True",
+  "FFlagDisableGuiBlur": "True",
+  "FFlagDisableGuiInsetAdjustment": "True",
+  "FFlagDisablePlayerShadows": "True",
+  "FFlagHideWatermark": "True",
+  "FFlagDisableControllerUI": "True",
+  "FFlagFastGPULightCulling3": "True",
+  "FFlagEnableMSAA": "True",
+  "FIntDebugForceMSAASamples": "4",
+  "FIntRenderShadowIntensity": "0",
+  "FFlagRenderFixFog": "True",
+  "FFlagDisableLightFade": "True",
+  "FFlagNewLightAttenuation": "True",
+  "FFlagEnableVoxelSuperSampling": "True",
+  "DFIntRenderClampRoughnessMax": "-640000000",
+  "DFIntDebugFRMQualityLevelOverride": "21",
+  "DFIntMaxFrameBufferSize": "4",
+  "DFIntTextureQualityOverride": "3"
+}
